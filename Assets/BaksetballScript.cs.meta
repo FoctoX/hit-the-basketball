@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ee67d0a60b01322478c43a88d3300747
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ballHit: {instanceID: 0}
+  - ballNormal: {instanceID: 0}
+  - ballMateri: {instanceID: 0}
+  - mainMenuScript: {instanceID: 0}
+  - materiGameScript: {instanceID: 0}
+  - gameplayScript: {instanceID: 0}
+  - pauseScript: {instanceID: 0}
+  - countdownScript: {instanceID: 0}
+  - materi: {instanceID: 0}
+  - soal: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

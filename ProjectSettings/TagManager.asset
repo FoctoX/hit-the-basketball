@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - mainMenu
+  - LogicTag
+  - TransitionTag
+  - CountdownTag
+  - MateriGameTag
+  - SoalGameTag
+  - RedBackgroundTag
+  - GameplayTag
+  - Level1Tag
+  - Level2Tag
+  - Level3Tag
+  - Level4Tag
+  - Level5Tag
+  - Level6Tag
+  - PauseTag
+  - BasketballTag
+  - MainMenuTag
+  - LevelSelectorTag
+  - MateriImageTag
+  - UpperMateriSejarah
+  - UpperMateriTeknik
+  - UpperMateriAturan
+  - UpperMateriPassing
+  - UpperMateriDribble
+  - UpperMateriShooting
+  - UpperMateriLainnya
+  - UpperSoalSejarah
+  - UpperSoalTeknik
+  - UpperSoalAturan
+  - UpperSoalPassing
+  - UpperSoalDribble
+  - UpperSoalShooting
+  - UpperSoalLainnya
+  - GameControllerTag
+  - CountdownChildrenTag
+  - SoalTag
+  - SaveAndLoad
+  - VolumeTag
+  - MateriTag
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - VFX
+  - Water
+  - UI
+  - Navbar
+  - SelectedNavbar
+  - Post Processing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: SelectedNavbar
+    uniqueID: 1565995929
+    locked: 0
+  - name: Navbar
+    uniqueID: 4089942421
+    locked: 0
+  - name: UI
+    uniqueID: 1504067765
+    locked: 0
